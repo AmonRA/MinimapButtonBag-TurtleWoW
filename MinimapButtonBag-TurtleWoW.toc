@@ -1,8 +1,8 @@
 ## Interface: 11200
-## Title: MinimapButtonBag
+## Title: MinimapButtonBag-TurtleWoW
 ## Version: 0.508
 ## Author: Tunhadil, LaYt (+McPewPew)
-## X-Website: https://github.com/McPewPew/MinimapButtonBag
+## X-Website: https://github.com/McPewPew/MinimapButtonBag-TurtleWoW
 ## X-Date 2021-02-21
 ## Notes: Reduces minimap buttons and makes them accessible through a menu!
 ## Notes-deDE: Reduziert die Minimap Knöpfe und erlaubt den Zugriff auf diese über ein Menü!
